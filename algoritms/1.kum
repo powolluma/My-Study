@@ -1,0 +1,14 @@
+алг сумма_разность
+нач
+  цел a, b, sum, raz, proizv
+  вещ chastnoe
+  ввод a, b
+  sum := a + b
+  raz := a - b
+  proizv := a * b
+  chastnoe := a / b
+  вывод "Сумма: ", sum, нс
+  вывод "Разность: ", raz, нс
+  вывод "Произведение: ", proizv, нс
+  вывод "Частное: ", chastnoe
+кон
