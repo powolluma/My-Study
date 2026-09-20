@@ -82,7 +82,7 @@ while x >= xk + dx / 2:
     if x <= 0:
         print(f"x = {x} y = ?")
     else:
-        y = (15.28 * math.log(x ** (-3 / 2))) + math.cos((math.log(x) + b))
+        y = 15.28 * abs(x) ** (-1.5) + math.cos(math.log(abs(x)) + b)
         print(f"x = {x}, y = {y}")
     x += dx
 """
