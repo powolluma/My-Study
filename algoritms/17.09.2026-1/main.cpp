@@ -43,7 +43,7 @@ int main() {
         if (x <= 0)
             cout << "x = " << x << " y = ?" << endl;
         else {
-            double y = pow(9 * x, 4) + sin(57.2 + x);
+            double y = (9 * pow(x, 4)) + sin(57.2 + x);
             cout << "x = " << x << ", y = " << y << endl;
         }
     }
