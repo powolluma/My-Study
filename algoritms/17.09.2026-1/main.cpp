@@ -12,7 +12,7 @@ int main() {
         if (x <= 0)
             cout << "x = " << x << ", y = ?" << endl;
         else {
-            double y = (0.01 * b * c) / x + cos(pow(a, 3) * x);
+            double y = (0.01 * b * c) / x + cos(sqrt(pow(a, 3) * x));
             cout << "x = " << x << ", y = " << y << endl;
         }
     }
