@@ -75,7 +75,7 @@ int main() {
         if (x <= 0)
             cout << "x = " << x << " y = ?" << endl;
         else {
-            double y = 15.28 * log(pow(x, -1.5)) + cos(log(x) + b);
+            double y = 15.28 * pow(fabs(x), -1.5) + cos(log(fabs(x)) + b);
             cout << "x = " << x << ", y = " << y << endl;
         }
     }
