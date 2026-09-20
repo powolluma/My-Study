@@ -14,7 +14,7 @@ while x <= xk + dx / 2:
     if x <= 0:
         print(f"x = {x}, y = ?")
     else:
-        y = ((10 ** -2) * b * c) / x + (math.cos((a ** 3) * x))
+        y = ((10 ** -2) * b * c) / x + (math.cos(math.sqrt((a ** 3) * x)))
         print(f"x = {x}, y = {y}")
     x += dx
 """
