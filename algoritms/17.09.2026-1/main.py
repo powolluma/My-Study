@@ -48,7 +48,7 @@ while x >= xk + dx / 2:
     if x <= 0:
         print(f"x = {x} y = ?")
     else:
-        y = ((9 * x) ** 4) + (math.sin(57.2 + x))
+        y = ((9 * (x ** 4)) + (math.sin(57.2 + x))
         print(f"x = {x}, y = {y}")
     x += dx
 """
