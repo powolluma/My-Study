@@ -1,0 +1,14 @@
+C:\Users\powolluma\Desktop\10.10.2026\9\bin\Debug\net10.0-windows\Task9.exe
+C:\Users\powolluma\Desktop\10.10.2026\9\bin\Debug\net10.0-windows\Task9.deps.json
+C:\Users\powolluma\Desktop\10.10.2026\9\bin\Debug\net10.0-windows\Task9.runtimeconfig.json
+C:\Users\powolluma\Desktop\10.10.2026\9\bin\Debug\net10.0-windows\Task9.dll
+C:\Users\powolluma\Desktop\10.10.2026\9\bin\Debug\net10.0-windows\Task9.pdb
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.AssemblyInfoInputs.cache
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.AssemblyInfo.cs
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.csproj.CoreCompileInputs.cache
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.dll
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\refint\Task9.dll
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.pdb
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\Task9.genruntimeconfig.cache
+C:\Users\powolluma\Desktop\10.10.2026\9\obj\Debug\net10.0-windows\ref\Task9.dll
