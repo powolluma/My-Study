@@ -1,0 +1,7 @@
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\bin\Debug\VegetablesFruitsApp.exe.config
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\bin\Debug\VegetablesFruitsApp.exe
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\bin\Debug\VegetablesFruitsApp.pdb
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\obj\Debug\VegetablesFruitsApp.csproj.AssemblyReference.cache
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\obj\Debug\VegetablesFruitsApp.csproj.CoreCompileInputs.cache
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\obj\Debug\VegetablesFruitsApp.exe
+C:\Users\powolluma\source\repos\VegetablesFruitsApp\VegetablesFruitsApp\obj\Debug\VegetablesFruitsApp.pdb
