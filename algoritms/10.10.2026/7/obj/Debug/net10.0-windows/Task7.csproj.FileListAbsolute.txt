@@ -1,0 +1,14 @@
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.AssemblyInfoInputs.cache
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.AssemblyInfo.cs
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.csproj.CoreCompileInputs.cache
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.dll
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\refint\Task7.dll
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.pdb
+C:\Users\powolluma\Desktop\10.10.2026\7\bin\Debug\net10.0-windows\Task7.exe
+C:\Users\powolluma\Desktop\10.10.2026\7\bin\Debug\net10.0-windows\Task7.deps.json
+C:\Users\powolluma\Desktop\10.10.2026\7\bin\Debug\net10.0-windows\Task7.runtimeconfig.json
+C:\Users\powolluma\Desktop\10.10.2026\7\bin\Debug\net10.0-windows\Task7.dll
+C:\Users\powolluma\Desktop\10.10.2026\7\bin\Debug\net10.0-windows\Task7.pdb
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\Task7.genruntimeconfig.cache
+C:\Users\powolluma\Desktop\10.10.2026\7\obj\Debug\net10.0-windows\ref\Task7.dll
