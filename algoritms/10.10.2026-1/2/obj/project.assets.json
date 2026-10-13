@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\2\\Task2.csproj",
+      "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\2\\Task2.csproj",
+      "projectPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\2\\Task2.csproj",
       "packagesPath": "C:\\Users\\powolluma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\2\\obj\\",
+      "outputPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\powolluma\\AppData\\Roaming\\NuGet\\NuGet.Config",

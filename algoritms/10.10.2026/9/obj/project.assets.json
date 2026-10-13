@@ -8,16 +8,16 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\powolluma\\Desktop\\10.10.2026\\.dotnet-home\\.nuget\\packages\\": {}
+    "C:\\Users\\powolluma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\9\\Task9.csproj",
+      "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\9\\Task9.csproj",
       "projectName": "Task9",
-      "projectPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\9\\Task9.csproj",
-      "packagesPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\.dotnet-home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\9\\obj\\",
+      "projectPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\9\\Task9.csproj",
+      "packagesPath": "C:\\Users\\powolluma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\powolluma\\AppData\\Roaming\\NuGet\\NuGet.Config",

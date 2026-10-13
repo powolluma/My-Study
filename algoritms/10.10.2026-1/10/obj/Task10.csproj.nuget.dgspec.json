@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\10\\Task10.csproj": {}
+    "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\10\\Task10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\10\\Task10.csproj": {
+    "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\10\\Task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\10\\Task10.csproj",
+        "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\10\\Task10.csproj",
         "projectName": "Task10",
-        "projectPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\10\\Task10.csproj",
+        "projectPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\10\\Task10.csproj",
         "packagesPath": "C:\\Users\\powolluma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026-1\\10\\obj\\",
+        "outputPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026-1\\10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\powolluma\\AppData\\Roaming\\NuGet\\NuGet.Config",

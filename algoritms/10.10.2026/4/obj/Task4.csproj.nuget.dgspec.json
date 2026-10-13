@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\powolluma\\Desktop\\10.10.2026\\4\\Task4.csproj": {}
+    "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\powolluma\\Desktop\\10.10.2026\\4\\Task4.csproj": {
+    "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\.dotnet-home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\powolluma\\Desktop\\10.10.2026\\4\\obj\\",
+        "projectPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\powolluma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\powolluma\\Desktop\\My-Study\\algoritms\\10.10.2026\\4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\powolluma\\AppData\\Roaming\\NuGet\\NuGet.Config",
