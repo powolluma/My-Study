@@ -1,0 +1,24 @@
+алг
+нач
+    вещ radius, width, height
+
+    radius := 5
+    width := 4
+    height := 6
+
+    вывод "Круг, площадь: ",
+        circle_area(radius), нс
+
+    вывод "Прямоугольник, площадь: ",
+        rectangle_area(width, height), нс
+кон
+
+алг вещ circle_area(вещ radius)
+нач
+    знач := 3.14 * radius * radius
+кон
+
+алг вещ rectangle_area(вещ width, вещ height)
+нач
+    знач := width * height
+кон

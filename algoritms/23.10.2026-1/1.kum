@@ -1,0 +1,38 @@
+алг
+нач
+    вещ balance
+
+    balance := 1000
+    balance := deposit(balance, 500)
+    balance := withdraw(balance, 200)
+
+    вывод "Баланс: ", balance, нс
+кон
+
+алг вещ deposit(вещ balance, вещ amount)
+нач
+    если amount > 0
+    то
+        знач := balance + amount
+    иначе
+        вывод "Сумма должна быть положительной", нс
+        знач := balance
+    все
+кон
+
+алг вещ withdraw(вещ balance, вещ amount)
+нач
+    если amount <= 0
+    то
+        вывод "Сумма должна быть положительной", нс
+        знач := balance
+    иначе
+        если amount > balance
+        то
+            вывод "Недостаточно средств", нс
+            знач := balance
+        иначе
+            знач := balance - amount
+        все
+    все
+кон

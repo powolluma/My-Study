@@ -1,0 +1,48 @@
+алг
+нач
+    литтаб names[1:3]
+    вещтаб prices[1:3]
+    целтаб types[1:3]
+    целтаб expiry[1:3]
+
+    цел today
+    цел i
+    вещ total, currentPrice
+
+    today := 20261023
+
+    names[1] := "Книга"
+    prices[1] := 500
+    types[1] := 1
+    expiry[1] := 0
+
+    names[2] := "Компьютер"
+    prices[2] := 50000
+    types[2] := 2
+    expiry[2] := 0
+
+    names[3] := "Молоко"
+    prices[3] := 100
+    types[3] := 3
+    expiry[3] := 20250101
+
+    total := 0
+
+    вывод "ЧЕК", нс
+
+    нц для i от 1 до 3
+        currentPrice := prices[i]
+
+        если types[i] = 3 и expiry[i] <= today
+        то
+            currentPrice := currentPrice * 0.5
+        все
+
+        вывод names[i], " - ",
+            currentPrice, " руб.", нс
+
+        total := total + currentPrice
+    кц
+
+    вывод "Итого: ", total, " руб.", нс
+кон

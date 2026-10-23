@@ -1,0 +1,46 @@
+алг
+нач
+    вещ таб areas[1:3]
+
+    areas[1] := circle_area(5)
+    areas[2] := rectangle_area(4, 6)
+    areas[3] := triangle_area(4, 3)
+
+    вывод "Круг, площадь: ", areas[1], нс
+    вывод "Прямоугольник, площадь: ",
+        areas[2], нс
+    вывод "Треугольник, площадь: ",
+        areas[3], нс
+
+    вывод "Общая площадь: ",
+        total_area(3, areas), нс
+кон
+
+алг вещ circle_area(вещ radius)
+нач
+    знач := 3.14 * radius * radius
+кон
+
+алг вещ rectangle_area(вещ width, вещ height)
+нач
+    знач := width * height
+кон
+
+алг вещ triangle_area(вещ width, вещ height)
+нач
+    знач := width * height / 2
+кон
+
+алг вещ total_area(цел n, вещ таб areas[1:n])
+нач
+    вещ total
+    цел i
+
+    total := 0
+
+    нц для i от 1 до n
+        total := total + areas[i]
+    кц
+
+    знач := total
+кон
