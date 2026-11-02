@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\powolluma\\Desktop\\version 4.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\shopentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\shopentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\sleepingcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\sleepingcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\taskwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\taskwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|C:\\Users\\powolluma\\Desktop\\version 4.0\\electronicsstoreapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\efentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\efentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|c:\\users\\powolluma\\desktop\\version 4.0\\electronicsstoreapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF011CA-5624-467A-A689-B7CC0100DD78}|ElectronicsStoreApp\\ElectronicsStoreApp.csproj|solutionrelative:electronicsstoreapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskWindow.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\TaskWindow.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\TaskWindow.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\TaskWindow.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\TaskWindow.cs",
+              "ViewState": "AgIAAAQCAAAAAAAAAADwv0ICAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:37:14.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SleepingCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\SleepingCustomerDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\SleepingCustomerDto.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\SleepingCustomerDto.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\SleepingCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:37:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\MainWindow.xaml",
+              "RelativeToolTip": "ElectronicsStoreApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T15:37:09.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopEntities.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopEntities.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\ShopEntities.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopEntities.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\ShopEntities.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:35:55.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopDataContext.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\ShopDataContext.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopDataContext.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\ShopDataContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:35:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopContext.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\ShopContext.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\ShopContext.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:35:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFEntities.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\EFEntities.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\EFEntities.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\EFEntities.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\EFEntities.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:35:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\DatabaseHelper.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAiwGIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:34:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicsStoreApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\powolluma\\Desktop\\version 4.0\\ElectronicsStoreApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ElectronicsStoreApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:58:33.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

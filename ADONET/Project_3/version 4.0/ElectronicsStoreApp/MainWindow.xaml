@@ -1,0 +1,157 @@
+<Window x:Class="ElectronicsStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Интернет-магазин электроники"
+        Height="790" Width="900"
+        MinHeight="680" MinWidth="760"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource AppBackgroundBrush}">
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0"
+                Background="#142B4A"
+                CornerRadius="16"
+                Padding="24,20"
+                Margin="0,0,0,18">
+            <Grid>
+                <StackPanel>
+                    <TextBlock Text="ПАНЕЛЬ УПРАВЛЕНИЯ"
+                               Foreground="#93C5FD"
+                               FontSize="11"
+                               FontWeight="Bold"
+                               Margin="0,0,0,7" />
+                    <TextBlock Text="Интернет-магазин электроники"
+                               Foreground="White"
+                               FontSize="26"
+                               FontWeight="SemiBold" />
+                    <TextBlock Text="Выберите операцию для работы с товарами, заказами и данными магазина."
+                               Foreground="#D5E1F0"
+                               FontSize="13"
+                               Margin="0,7,0,0" />
+                </StackPanel>
+                <Border HorizontalAlignment="Right"
+                        VerticalAlignment="Top"
+                        Background="#25466D"
+                        CornerRadius="10"
+                        Padding="11,7">
+                    <TextBlock Text="ELECTRONICS STORE"
+                               Foreground="White"
+                               FontWeight="SemiBold"
+                               FontSize="10" />
+                </Border>
+            </Grid>
+        </Border>
+
+        <ScrollViewer Grid.Row="1"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Disabled">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Grid.Column="0"
+                        Background="{StaticResource SurfaceBrush}"
+                        BorderBrush="{StaticResource OutlineBrush}"
+                        BorderThickness="1"
+                        CornerRadius="13"
+                        Padding="18"
+                        Margin="0,0,10,14">
+                    <StackPanel>
+                        <TextBlock Text="ЗАДАНИЕ 1" Foreground="{StaticResource AccentBrush}" FontSize="11" FontWeight="Bold" />
+                        <TextBlock Text="Работа с товарами" FontSize="18" FontWeight="SemiBold" Margin="0,5,0,2" />
+                        <TextBlock Text="Просмотр каталога, добавление товаров и проверка остатков." Foreground="{StaticResource MutedBrush}" FontSize="12" Margin="0,0,0,8" />
+                        <Button Content="📋  Показать товары" Style="{StaticResource MenuActionButton}" Click="ShowProducts_Click" />
+                        <Button Content="➕  Добавить товар" Style="{StaticResource MenuActionButton}" Click="AddProduct_Click" />
+                        <Button Content="📦  Проверить остаток товара" Style="{StaticResource MenuActionButton}" Click="CheckStock_Click" />
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Row="0" Grid.Column="1"
+                        Background="{StaticResource SurfaceBrush}"
+                        BorderBrush="{StaticResource OutlineBrush}"
+                        BorderThickness="1"
+                        CornerRadius="13"
+                        Padding="18"
+                        Margin="10,0,0,14">
+                    <StackPanel>
+                        <TextBlock Text="ЗАДАНИЕ 2" Foreground="{StaticResource AccentBrush}" FontSize="11" FontWeight="Bold" />
+                        <TextBlock Text="Отсоединённый режим" FontSize="18" FontWeight="SemiBold" Margin="0,5,0,2" />
+                        <TextBlock Text="Редактирование данных в DataTable и сохранение изменений." Foreground="{StaticResource MutedBrush}" FontSize="12" Margin="0,0,0,8" />
+                        <Button Content="🗂️  Работа с DataTable" Style="{StaticResource MenuActionButton}" Click="DataTable_Click" />
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Row="1" Grid.Column="0"
+                        Background="{StaticResource SurfaceBrush}"
+                        BorderBrush="{StaticResource OutlineBrush}"
+                        BorderThickness="1"
+                        CornerRadius="13"
+                        Padding="18"
+                        Margin="0,0,10,14">
+                    <StackPanel>
+                        <TextBlock Text="ЗАДАНИЕ 3" Foreground="{StaticResource AccentBrush}" FontSize="11" FontWeight="Bold" />
+                        <TextBlock Text="LINQ to SQL" FontSize="18" FontWeight="SemiBold" Margin="0,5,0,2" />
+                        <TextBlock Text="Анализ продаж за последние 30 дней." Foreground="{StaticResource MutedBrush}" FontSize="12" Margin="0,0,0,8" />
+                        <Button Content="🏆  Топ-3 продаваемых товара" Style="{StaticResource MenuActionButton}" Click="TopProducts_Click" />
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Row="1" Grid.Column="1"
+                        Background="{StaticResource SurfaceBrush}"
+                        BorderBrush="{StaticResource OutlineBrush}"
+                        BorderThickness="1"
+                        CornerRadius="13"
+                        Padding="18"
+                        Margin="10,0,0,14">
+                    <StackPanel>
+                        <TextBlock Text="ЗАДАНИЕ 4" Foreground="{StaticResource AccentBrush}" FontSize="11" FontWeight="Bold" />
+                        <TextBlock Text="Entity Framework" FontSize="18" FontWeight="SemiBold" Margin="0,5,0,2" />
+                        <TextBlock Text="Выбор товаров и оформление заказа покупателя." Foreground="{StaticResource MutedBrush}" FontSize="12" Margin="0,0,0,8" />
+                        <Button Content="🛒  Оформить заказ" Style="{StaticResource MenuActionButton}" Click="PlaceOrder_Click" />
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Row="2" Grid.Column="0"
+                        Background="{StaticResource SurfaceBrush}"
+                        BorderBrush="{StaticResource OutlineBrush}"
+                        BorderThickness="1"
+                        CornerRadius="13"
+                        Padding="18"
+                        Margin="0,0,10,14">
+                    <StackPanel>
+                        <TextBlock Text="ЗАДАНИЕ 5" Foreground="{StaticResource AccentBrush}" FontSize="11" FontWeight="Bold" />
+                        <TextBlock Text="Dapper" FontSize="18" FontWeight="SemiBold" Margin="0,5,0,2" />
+                        <TextBlock Text="Получение списка клиентов без недавних покупок." Foreground="{StaticResource MutedBrush}" FontSize="12" Margin="0,0,0,8" />
+                        <Button Content="😴  Показать неактивных клиентов" Style="{StaticResource MenuActionButton}" Click="SleepingCustomers_Click" />
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </ScrollViewer>
+
+        <Border Grid.Row="2"
+                Background="{StaticResource SurfaceBrush}"
+                BorderBrush="{StaticResource OutlineBrush}"
+                BorderThickness="1"
+                CornerRadius="10"
+                Padding="14,10"
+                Margin="0,4,0,0">
+            <TextBlock x:Name="StatusTextBlock"
+                       Text="Текущее окно: главное меню"
+                       Foreground="{StaticResource MutedBrush}"
+                       FontSize="12"
+                       TextWrapping="Wrap" />
+        </Border>
+    </Grid>
+</Window>

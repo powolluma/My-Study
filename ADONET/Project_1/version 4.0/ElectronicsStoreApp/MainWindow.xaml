@@ -1,0 +1,39 @@
+<Window x:Class="ElectronicsStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Интернет-магазин электроники"
+        Height="600" Width="560"
+        MinHeight="520" MinWidth="500"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Задание 1. Присоединенный режим, Конфигурации и Асинхронность" FontWeight="Bold" Margin="0,4,0,2" />
+                <Button Content="📋 Показать товары" Click="ShowProducts_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+                <Button Content="➕ Добавить товар" Click="AddProduct_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+                <Button Content="📦 Проверить остаток товара" Click="CheckStock_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+
+                <TextBlock Text="Задание 2. Отсоединённый режим" FontWeight="Bold" Margin="0,10,0,2" />
+                <Button Content="🗂️ Работа с DataTable" Click="DataTable_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+
+                <TextBlock Text="Задание 3. LINQ to SQL" FontWeight="Bold" Margin="0,10,0,2" />
+                <Button Content="🏆 Топ-3 продаваемых товара" Click="TopProducts_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+
+                <TextBlock Text="Задание 4. Entity Framework" FontWeight="Bold" Margin="0,10,0,2" />
+                <Button Content="🛒 Оформить заказ" Click="PlaceOrder_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+
+                <TextBlock Text="Задание 5. Dapper" FontWeight="Bold" Margin="0,10,0,2" />
+                <Button Content="😴 Показать неактивных клиентов" Click="SleepingCustomers_Click" Margin="0,2" Padding="7,4" HorizontalContentAlignment="Left" />
+            </StackPanel>
+        </ScrollViewer>
+
+        <Border Grid.Row="1" BorderThickness="0,1,0,0" BorderBrush="Gray" Padding="4,8,0,0" Margin="0,10,0,0">
+            <TextBlock x:Name="StatusTextBlock" Text="Текущее окно: главное меню" TextWrapping="Wrap" />
+        </Border>
+    </Grid>
+</Window>
