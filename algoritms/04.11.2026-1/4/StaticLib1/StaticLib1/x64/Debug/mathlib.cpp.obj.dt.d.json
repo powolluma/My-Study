@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\powolluma\\source\\repos\\staticlib1\\staticlib1\\mathlib.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\powolluma\\source\\repos\\staticlib1\\staticlib1\\pch.h",
+            "c:\\users\\powolluma\\source\\repos\\staticlib1\\staticlib1\\framework.h",
+            "c:\\users\\powolluma\\source\\repos\\staticlib1\\staticlib1\\mathlib.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

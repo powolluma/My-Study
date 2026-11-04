@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\powolluma\source\repos\StaticLib1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): error C1083: Не удается открыть файл включение: mathlib.h: No such file or directory,

@@ -1,0 +1,6 @@
+main.cpp точка входа, создает QApplication и главное окно
+mainwindow.ui интерфейс формы
+mainwindow.h и mainwindow.cpp класс окна и обработчик кнопки
+CurrencyConverter.h и CurrencyConverter.cpp отдельный класс с логикой пересчета валют
+CMakeLists.txt сборка через CMake
+Task6_CurrencyConverter.pro альтернативный файл проекта для qmake

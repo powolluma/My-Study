@@ -1,0 +1,2 @@
+Debug: Sum: 16.6953, Time: 0.0410545 seconds
+Release: Sum: 16.6953, Time: 0.0157168 seconds
