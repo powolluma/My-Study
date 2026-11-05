@@ -1,0 +1,14 @@
+C:\Users\powolluma\Desktop\05.11.2026\2\bin\Debug\net10.0\2.exe
+C:\Users\powolluma\Desktop\05.11.2026\2\bin\Debug\net10.0\2.deps.json
+C:\Users\powolluma\Desktop\05.11.2026\2\bin\Debug\net10.0\2.runtimeconfig.json
+C:\Users\powolluma\Desktop\05.11.2026\2\bin\Debug\net10.0\2.dll
+C:\Users\powolluma\Desktop\05.11.2026\2\bin\Debug\net10.0\2.pdb
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.AssemblyInfoInputs.cache
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.AssemblyInfo.cs
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.csproj.CoreCompileInputs.cache
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.dll
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\refint\2.dll
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.pdb
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\2.genruntimeconfig.cache
+C:\Users\powolluma\Desktop\05.11.2026\2\obj\Debug\net10.0\ref\2.dll
