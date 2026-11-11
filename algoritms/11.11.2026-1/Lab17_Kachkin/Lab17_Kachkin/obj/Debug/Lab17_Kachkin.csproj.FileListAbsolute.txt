@@ -1,0 +1,7 @@
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\bin\Debug\Lab17_Kachkin.exe.config
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\bin\Debug\Lab17_Kachkin.exe
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\bin\Debug\Lab17_Kachkin.pdb
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\obj\Debug\Lab17_Kachkin.csproj.AssemblyReference.cache
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\obj\Debug\Lab17_Kachkin.csproj.CoreCompileInputs.cache
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\obj\Debug\Lab17_Kachkin.exe
+C:\Users\powolluma\source\repos\Lab17_Kachkin\Lab17_Kachkin\obj\Debug\Lab17_Kachkin.pdb
