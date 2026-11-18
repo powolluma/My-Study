@@ -1,0 +1,11 @@
+C:\Users\academy\Desktop\c#\5\bin\Debug\net10.0\5.deps.json
+C:\Users\academy\Desktop\c#\5\bin\Debug\net10.0\5.dll
+C:\Users\academy\Desktop\c#\5\bin\Debug\net10.0\5.pdb
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.AssemblyInfoInputs.cache
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.AssemblyInfo.cs
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.csproj.CoreCompileInputs.cache
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.dll
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\refint\5.dll
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\5.pdb
+C:\Users\academy\Desktop\c#\5\obj\Debug\net10.0\ref\5.dll
