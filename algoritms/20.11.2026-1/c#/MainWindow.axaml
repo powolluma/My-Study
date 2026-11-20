@@ -1,0 +1,37 @@
+<Window xmlns="https://github.com/avaloniaui"
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+        x:Class="StudentSurvey.MainWindow"
+
+        Title="Главная форма"
+
+        Width="420" Height="300"
+
+        WindowStartupLocation="CenterScreen">
+
+    <StackPanel Margin="20" Spacing="10">
+
+        <TextBlock Text="Фамилия и имя:" />
+
+        <TextBox x:Name="NameBox" Watermark="Введите фамилию и имя" />
+
+
+
+        <TextBlock Text="Группа:" />
+
+        <TextBox x:Name="GroupBox" Watermark="Введите группу" />
+
+
+
+        <TextBlock x:Name="ErrorText" Foreground="Red" />
+
+
+
+        <Button Content="Далее" Click="Next_Click" />
+
+        <Button Content="Выход" Click="Exit_Click" />
+
+    </StackPanel>
+
+</Window>
