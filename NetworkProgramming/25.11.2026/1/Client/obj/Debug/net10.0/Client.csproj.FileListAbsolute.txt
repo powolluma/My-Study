@@ -1,0 +1,14 @@
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\bin\Debug\net10.0\Client.exe
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\bin\Debug\net10.0\Client.deps.json
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\bin\Debug\net10.0\Client.runtimeconfig.json
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\bin\Debug\net10.0\Client.dll
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\bin\Debug\net10.0\Client.pdb
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.AssemblyInfo.cs
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.dll
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\refint\Client.dll
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.pdb
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\Client.genruntimeconfig.cache
+C:\Users\black\OneDrive\Desktop\25.11.2026\1\Client\obj\Debug\net10.0\ref\Client.dll
